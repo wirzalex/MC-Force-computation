@@ -1,7 +1,4 @@
 
-keras-applications     =   1.0.8                      
-keras-base            =    2.4.3                      
-keras-preprocessing     =  1.1.2              
 matplotlib            =    3.3.4            
 matplotlib-base       =    3.3.4            
 numpy                =     1.20.1           
