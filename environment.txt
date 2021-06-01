@@ -1,0 +1,11 @@
+pandas 
+scipy
+numpy
+scipy.optimize 
+sklearn.linear_model 
+from sklearn.metrics 
+matplotlib.pyplot 
+sklearn.preprocessing 
+matplotlib 
+rcParams['font.family'] = 'sans-serif'
+rcParams['font.sans-serif'] = ['Verdana']
